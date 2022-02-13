@@ -1,0 +1,12 @@
+#logo {
+    border: 1px solid black;
+    contain: center;
+}
+
+#cabecera {
+    text-align: center;
+}
+
+body{
+    align-items: center;
+}
