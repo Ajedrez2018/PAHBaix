@@ -1,6 +1,9 @@
+.cabecera {
+    display: flex;
+}
+
 #logo {
     border: 1px solid black;
-    contain: center;
 }
 
 #cabecera {
@@ -8,5 +11,5 @@
 }
 
 body{
-    align-items: center;
+    align-content: center;
 }
